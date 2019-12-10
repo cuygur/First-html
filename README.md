@@ -1,2 +1,3 @@
-# First-html
-Udacity html project
+# First-HTML
+
+This is my Udacity HTML project
